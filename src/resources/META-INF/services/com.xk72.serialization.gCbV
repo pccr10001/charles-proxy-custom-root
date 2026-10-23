@@ -1,0 +1,3 @@
+com.charlesproxy.config.serialization.CharlesConfigSerialization
+com.charlesproxy.gui.CharlesGUISerialization
+com.charlesproxy.tools.ToolsSerialization
